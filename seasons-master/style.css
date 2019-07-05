@@ -1,0 +1,97 @@
+body {
+    width: 900px;
+    margin: 0 auto;
+    padding-top: 10px;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 0px;
+    padding: 
+    
+}
+
+html {
+    background-color: darkslategrey;
+    width: 900px;
+    margin: 0 auto; 
+}
+
+.header, .days, .quote {
+    Text-align: center; 
+    background-color: white; 
+}
+
+.spring{
+    background-color: rgb(254, 240, 158); 
+}
+
+.summer{
+    background-color: rgb(151,227,251);
+}
+.autumn{
+    background-color: #9C2706;
+}
+.winter{
+    background-color: steelblue;
+} 
+
+a {
+    text-decoration: none; 
+}
+
+a:hover {
+    text-decoration: underline;
+    color: yellow;
+}
+
+.spring, .summer, .autumn, .winter,.header {
+    padding: 20px 50px;
+}
+
+.autumn, .winter {
+    color: white
+}
+
+img {
+    border-radius: 50px;
+    width: 800px;
+    padding: 20px
+
+  
+}
+
+h1, .days {
+    font-family: 'Paytone One', sans-serif;
+    letter-spacing: 2px;
+}
+.days1 {
+    background-color: rgb(254, 240, 158); 
+
+}
+
+.days2 {
+    background-color: rgb(151,227,251);
+}
+
+.days3 {
+    background-color: #9C2706;
+}
+
+.days4 {
+    background-color: steelblue;
+}
+
+.days1, .days2, .days3, .days4 {
+    text-align: center;
+    font-family: 'Paytone One', sans-serif;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+hr {
+    width: 800px;
+}
+
+button {
+    padding: 7px 30px;
+    font-size: 15px;
+}
+
